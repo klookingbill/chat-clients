@@ -1,7 +1,7 @@
 # chat-clients
 
 This code was written to complete an assignment for CS:3640, Introduction to Networks and 
-Their Applications at the University of Iowa during the Spring 2025 semester. After learning
+Their Applications during the Spring 2025 semester at the University of Iowa. After learning
 about the transport layer in the layered architecture of networks, I was responsible for 
 implementing communication between devices in Python code. There are two different 
 approaches to end-to-end communication in the transport layer and both are demonstrated here.
