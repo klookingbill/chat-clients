@@ -1,6 +1,6 @@
 # chat-clients
 
-This code was written to complete an assignment for CS3640: Introduction to Networks and 
+This code was written to complete an assignment for CS:3640, Introduction to Networks and 
 Their Applications at the University of Iowa during the Spring 2025 semester. After learning
 about the transport layer in the layered architecture of networks, I was responsible for 
 implementing communication between devices in Python code. There are two different 
